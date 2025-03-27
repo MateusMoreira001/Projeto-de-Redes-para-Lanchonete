@@ -1,4 +1,4 @@
-# Projeto de Redes para Lanchonete
+# 📚Projeto de Redes para Lanchonete
 
 Repositório para projeto, no qual desenvolvo uma rede virtual para uma Lanchonete, utilizando a ferramenta **Cisco Packet Tracer**.
 
